@@ -73,5 +73,3 @@ float mc_pi(int n){
   
   
 }
-
-
